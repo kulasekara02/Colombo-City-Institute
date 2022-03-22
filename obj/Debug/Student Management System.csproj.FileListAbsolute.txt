@@ -1,0 +1,22 @@
+C:\Users\sidath\source\repos\Student Management System\Student Management System\bin\Debug\Student Management System.exe.config
+C:\Users\sidath\source\repos\Student Management System\Student Management System\bin\Debug\Student Management System.exe
+C:\Users\sidath\source\repos\Student Management System\Student Management System\bin\Debug\Student Management System.pdb
+C:\Users\sidath\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.Admin.resources
+C:\Users\sidath\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.Form1.resources
+C:\Users\sidath\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.Properties.Resources.resources
+C:\Users\sidath\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.Student.resources
+C:\Users\sidath\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.Student_Coordinator.resources
+C:\Users\sidath\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.SubForms.ManageUsers.resources
+C:\Users\sidath\source\repos\Student Management System\Student Management System\obj\Debug\Student Management System.csproj.GenerateResource.cache
+C:\Users\sidath\source\repos\Student Management System\Student Management System\obj\Debug\Student Management System.exe
+C:\Users\sidath\source\repos\Student Management System\Student Management System\obj\Debug\Student Management System.pdb
+C:\Users\sidath\source\repos\Student Management System\Student Management System\obj\Debug\Student Management System.csprojAssemblyReference.cache
+C:\Users\sidath\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.SubForms.AddBatch.resources
+C:\Users\sidath\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.SubForms.ManageStudent.resources
+C:\Users\sidath\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.SubForms.YourInfo.resources
+C:\Users\sidath\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.SubForms.AddSubjectFrm.resources
+C:\Users\sidath\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.SubForms.AssignmentGrades.resources
+C:\Users\sidath\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.SubForms.StudentAssignment.resources
+C:\Users\sidath\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.SubForms.ViewStatus.resources
+C:\Users\sidath\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.SubForms.AssignmentStatus.resources
+C:\Users\sidath\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.SubForms.ViewAssignmentStatus.resources
